@@ -3,9 +3,6 @@
 # 
 # Create the sidebar menu options for the ui.
 ###################
-library(shinydashboard)
-
-
 sidebar <- dashboardSidebar(
   sidebarMenu(
 
